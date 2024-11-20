@@ -1,6 +1,6 @@
 #!/usr/bin/python
 """
-#    OBETIVO: Tratar un fichero de log de tráfico, para identificar cada flujo que lo atraviesa.
+#    OBETIVO: Tratar un fichero de log de tráfico para identificar cada flujo que lo atraviesa.
 #  ESCENARIO: Traffic log de FortiGate o FortiAnalyzer
 # REQUISITOS: Librerias Python instaladas    
 #  INPUT-REQ: Fichero con export del log de FortiGate o FortiAnalyzer por argumentos o introducirlo en el momento de la ejecucion.
