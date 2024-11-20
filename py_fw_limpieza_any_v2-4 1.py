@@ -9,8 +9,8 @@
 #  EJECUCION: py_fw_limpieza_any_v2.py <FicheroLogATratar.txt>
 """
 
-__author__ = 'Santiago de Vega'
-__email__ = "sdevega@kyndryl.com"
+__author__ = 'Jose Maria Ortega'
+__email__ = "jmortega@kyndryl.com"
 __title__ = 'Leer log Fortigate'
 __version__ = '2.3'
 
